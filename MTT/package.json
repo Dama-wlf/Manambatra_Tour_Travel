@@ -2,7 +2,7 @@
   "name": "manambatra_tour",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://Dama-wlf.github.io/Manambatra_Tour_Travel",
+  "homepage": "https://Dama-wlf.github.io/Manambatra_Tour_Travel/MTT",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
