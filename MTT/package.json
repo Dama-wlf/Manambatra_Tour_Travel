@@ -1,7 +1,8 @@
 {
   "name": "manambatra_tour",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
+  "homepage": "https://Dama-wlf.github.io/Manambatra_Tour_Travel",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,8 +10,12 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
+
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
+    "gh-pages": "^6.3.0",
     "lucide-react": "^0.563.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
