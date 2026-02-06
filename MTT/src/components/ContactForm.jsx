@@ -110,7 +110,7 @@ export default function ContactForm() {
                 </div>
                 <div>
                   <h3 className="font-bold text-gray-900 mb-2">Téléphone</h3>
-                  <p className="text-gray-600">+261 32 42 924 13</p>
+                  <p className="text-gray-600">+261 32 42 925 13</p>
                 </div>
               </div>
             </div>
